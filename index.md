@@ -4,6 +4,6 @@ Congratulations about your recent Mikrotik router purchase! With cyber threats b
 
 Here you will find a wealth of instuctional content, from setting up a guest network to enforcing cybersecurity best practice, all without needing to hire an IT specialist!
 
-
+# Lesson 1: Hardware Overview and Winbox
 ## Videos
 ## Docs
