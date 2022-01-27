@@ -11,3 +11,10 @@ Here you will find a wealth of instuctional content, from setting up a guest net
 </p>
 ## Docs
 Check out all of the information covered in theis lesson in text form! [Lesson 1](https://github.com/ArtTHEbard/LearnMikrotik/wiki/Lesson-1)
+# Lesson 2: Router Web Config
+## Video
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Elex9l8WxUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+## Docs
+Check out all of the information covered in theis lesson in text form! [[Lesson 2]]
