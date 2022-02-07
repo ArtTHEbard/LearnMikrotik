@@ -20,7 +20,7 @@ Check out all of the information covered in theis lesson in text form! [Lesson 1
 Check out all of the information covered in theis lesson in text form! [Lesson 2](https://github.com/ArtTHEbard/LearnMikrotik/wiki/Lesson-2)
 # Lesson 3: Secure Guest Wifi
 ## Video
-<p aling="center">
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tQ1rX45prKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 ## Docs
