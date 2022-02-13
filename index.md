@@ -27,6 +27,7 @@ Check out all of the information covered in theis lesson in text form! [Lesson 2
 Check out all of the information covered in theis lesson in text form! [Lesson 3](https://github.com/ArtTHEbard/LearnMikrotik/wiki/Lesson-3)
 # Lesson 4: Guest Wifi Portal Login
 ## Video
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N859yOCmLeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 ## Docs
