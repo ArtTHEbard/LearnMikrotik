@@ -4,13 +4,8 @@ Congratulations about your recent Mikrotik router purchase! With cyber threats b
 
 Here you will find a wealth of instuctional content, from setting up a guest network to enforcing cybersecurity best practice, all without needing to hire an IT specialist!
 
-# Lesson 1: Hardware Overview
-## Video
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dgVG9xsPZA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-## Docs
-Check out all of the information covered in theis lesson in text form! [Lesson 1](https://github.com/ArtTHEbard/LearnMikrotik/wiki/Lesson-1)
+<a href="pages/Lesson1.html">Lesson1</a>
+
 # Lesson 2: Router Web Config
 ## Video
 <p align="center">
