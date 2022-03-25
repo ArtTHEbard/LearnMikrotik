@@ -1,1 +1,6 @@
-7
+---
+title: Lesson 7
+---
+
+LearnMikrotik
+=====
