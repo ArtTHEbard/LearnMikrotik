@@ -1,3 +1,10 @@
+---
+title: Lesson 1
+---
+
+LearnMikrotik
+=====
+
 # Lesson 1: Hardware Overview
 ## Video
 <p align="center">
