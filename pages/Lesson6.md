@@ -1,3 +1,10 @@
+---
+title: Lesson 6
+---
+
+LearnMikrotik
+=====
+
 # Lesson 6 VPN
 ## Video
 <p aling="center">
