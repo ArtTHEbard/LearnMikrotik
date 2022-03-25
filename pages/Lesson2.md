@@ -3,9 +3,13 @@
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Elex9l8WxUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
 ## Docs
+
 ## Using the MikroTik Web Client and WinBox Tools
+
 ### **Connecting to your Router**
+
 The first step to configuring your new router is to connect to the Web Tool. 
 * First, connect to the new Wifi signal. It should have MikroTik in the name, and end with "FB" or "FC". 
 * Next, browse to 192.168.88.1 in a web browser. You will be met with a login. The default password can be found in the included instruction booklet that came with your router. 
