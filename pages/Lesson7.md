@@ -9,6 +9,7 @@ LearnMikrotik
 <iframe width="560" height="315" src="https://www.youtube.com/embed/whm-gAMj7tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Docs
+Becoming familiar with SSH and router services is an essential part of understanding and managing your network secuirity and accessibility. While VPNs can give you a more secure and straightforward approach to remote access, knowing how to utilize SSH is still an important step to achiving better network control and security.  We suggest that SSH only be used for administrative purposes, and not the main way used to access the network remotely. 
 
 ## Connecting to MikroTik Using SSH
 ### Step 1: Install Putty
