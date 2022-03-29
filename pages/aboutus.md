@@ -13,5 +13,6 @@ This course is comprised of video lectures/walkthorughs, accompanied by text doc
 # The Team
 
 ## Connor Merchant
-![](../Pics/connor_desk.jpg)
+![](../Pics/connor_desk%20(1).jpg)
+
 Connor is the voice behind the lessons. 
