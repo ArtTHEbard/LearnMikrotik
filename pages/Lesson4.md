@@ -15,7 +15,7 @@ LearnMikrotik
 ## Docs
 
 ## Captive Wifi Portal
-In this lesson, we are creating a captive wifi portal that guests will need to visit in order to connect to your guest wifi.  
+In this lesson, we are creating a captive wifi portal that guests will need to visit in order to connect to your guest wifi. This allows for the convience of having an open wifi network, while still securing your connection against unauthorized access. 
 ### Creating a Login Hotspot
 * In the left hand bar, select IP.
 * In the left dropdown menu, select Hotspot.
