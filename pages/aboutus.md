@@ -13,5 +13,5 @@ This course is comprised of video lectures/walkthorughs, accompanied by text doc
 # The Team
 
 ## Connor Merchant
-![Connor](https://github.com/ArtTHEbard/LearnMikrotik/blob/gh-pages/Pics/PXL_20220329_151513698.PORTRAIT.jpg)
+![](../Pics/PXL_20220329_151513698.PORTRAIT.jpg)
 Connor is the voice behind the lessons. 
