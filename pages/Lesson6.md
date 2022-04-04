@@ -158,5 +158,5 @@ The first step is to configure the Server side of OpenVPN. This involves creatin
 * On the Zerotier website go to download and download it for your desired device.
 * Run the installer and open the program.
 * Enter your network ID into the join network option and click join network. 
-*  On the Zerotier website you can now authorize the new device.
+* On the Zerotier website you can now authorize the new device.
 
