@@ -15,8 +15,9 @@ LearnMikrotik
 
 ***
 ## Setting up a Guest Network
+The first step is to create a custom set of settings, referred to as a security profile, that will manage how your network is protected, as well as how it is accessed. This will keep your private network secure, while still providing your customers the convienience of a internet connection. 
+
 ### Security Profile
-The first step is to create a custom set of settings, referred to as a security profile, that will manage how your network is protected, as well as how it is accessed. This will keep your private network secure, while still providing your customers the convienience of a internet connection.  
 * Navigate to the Wireless menu on the left hand side, and select the "Security Profiles" tab from the top ribbon.
 * Select "Add New": and use the following options:
   * Enter a name for the new security profile, we recommend "Guest".
