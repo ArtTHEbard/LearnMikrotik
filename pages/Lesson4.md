@@ -29,6 +29,7 @@ In this lesson, we are creating a captive wifi portal that guests will need to v
   * Enter Hotspot.Guest.Login for the DNS Name
   * Enter Guest for the name of the Local Hotspot User
     * Create a strong password to use as your Guest login password. 
+  * In the top ribbon, select USer Profiles. Select the new Guest User. Under the Shared User section, enter the amount of people you want to be able to connect to your wifif at once. 
 * Back in the main Servers tab, double click into the newly created Hotspot. 
   * Under the DHCP pool field, select the address pool that is linked to your guest network. 
 * Finally, we need to remove the password from the guest network, as the login is now being moved to the captive portal rather than the initial Wifi connection. 
