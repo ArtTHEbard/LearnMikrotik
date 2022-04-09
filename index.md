@@ -16,6 +16,7 @@ Here you will find a wealth of instuctional content, from setting up a guest net
 <a href="pages/Lesson5.html">Lesson5</a> | Mobile App | Easy | 
 <a href="pages/Lesson6.html">Lesson6</a> | VPN | Hard | 
 <a href="pages/Lesson7.html">Lesson7</a> | SSH Setup and Service Audit | Medium |
+<a href="pages/Lesson8.html">Lesson8</a> | Backups | Easy |
 
 
 
