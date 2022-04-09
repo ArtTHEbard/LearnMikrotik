@@ -11,7 +11,7 @@ Congratulations about your recent Mikrotik router purchase! With cyber threats b
 
 Here you will find a wealth of instructional content, from setting up a guest network to enforcing cybersecurity best practice, all without needing to hire an IT specialist!
 
-[Meet the Team](pages/aboutus.html)
+[Meet the Team](aboutus.md)
 
 | Lesson Page                  | Lesson Name                 | Lesson Difficulty |
 | ---------------------------- | --------------------------- | ----------------- |
