@@ -6,7 +6,7 @@ title: Lesson 7
 
 ## LearnMikrotik
 
-## Lesson 7: SSH Connect
+## SSH Connect
 
 ## Video
 
