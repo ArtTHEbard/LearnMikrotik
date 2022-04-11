@@ -6,13 +6,13 @@ title: Lesson 6
 
 ## LearnMikrotik
 
-## Lesson 6 VPN
+## VPN
 
-### Video
+## Video
 
 {% embed url="https://youtu.be/_KUUNUF6wV4" %}
 
-### Docs
+## Docs
 
 Having access to a virtual private network allows for secure and safe connections to your network from a remote location. THis is a great way to monitor and manage your router and network from anywhere. Having the option to set up multiple different VPNs give you the freedom of choice to match your needs and configuration.
 
