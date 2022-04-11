@@ -6,7 +6,7 @@ title: Lesson 3
 
 ## LearnMikrotik
 
-## Lesson 3: Secure Guest Wifi
+## Secure Guest Wifi
 
 ## Video
 
