@@ -6,13 +6,13 @@ title: Lesson 7
 
 ## LearnMikrotik
 
-## Lesson 8: Backups
+## Backups
 
-### Video
+## Video
 
 {% embed url="https://youtu.be/AEkNWoLNmDY" %}
 
-### Docs
+## Docs
 
 In this lesson, Connor and I go over the backup capabilities of the Mikrotik routers. The router offers both traditional backups as well as cloud backup capabilities. Due to the options for backups with the router, there is no reason why backups should not be made of router configurations. This safeguard prevents against data loss or theft, while also allowing you to switch between hardware and retain your settings. A intro to Mikrotik logging is also touched upon in the video, however, the extensive documentation for logging capabilities on the devices will be saved for a dedicated video.
 
