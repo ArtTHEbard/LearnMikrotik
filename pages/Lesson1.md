@@ -12,7 +12,7 @@ title: Lesson 1
 
 {% embed url="https://youtu.be/dgVG9xsPZA0" %}
 
-### Docs
+## Docs
 
 ### Hardware Overview
 
