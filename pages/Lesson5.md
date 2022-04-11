@@ -6,13 +6,13 @@ title: Lesson 5
 
 ## LearnMikrotik
 
-## Lesson 5: Mobile App
+## Mobile App
 
-### Video
+## Video
 
 {% embed url="https://youtu.be/da-mnpK9J64" %}
 
-### Docs
+## Docs
 
 ### Mikrotik Mobile App
 
