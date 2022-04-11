@@ -8,7 +8,7 @@ title: Lesson 3
 
 ## Lesson 3: Secure Guest Wifi
 
-### Video
+## Video
 
 {% embed url="https://youtu.be/tQ1rX45prKc" %}
 
