@@ -6,9 +6,9 @@ title: Lesson 1
 
 ## LearnMikrotik
 
-## Lesson 1: Hardware Overview
+## Hardware Overview
 
-### Video
+## Video
 
 {% embed url="https://youtu.be/dgVG9xsPZA0" %}
 
