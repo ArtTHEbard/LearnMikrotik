@@ -6,9 +6,9 @@ title: Lesson 2
 
 ## LearnMikrotik
 
-## Lesson 2: Router Web Config
+## Router Web Config
 
-### Video
+## Video
 
 {% embed url="https://youtu.be/Elex9l8WxUY" %}
 
