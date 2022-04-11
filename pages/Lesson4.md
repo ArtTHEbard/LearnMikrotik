@@ -6,13 +6,13 @@ title: Lesson 4
 
 ## LearnMikrotik
 
-## Lesson 4: Guest Wifi Portal Login
+## Guest Wifi Portal Login
 
-### Video
+## Video
 
 {% embed url="https://youtu.be/N859yOCmLeU" %}
 
-### Docs
+## Docs
 
 ### Captive Wifi Portal
 
