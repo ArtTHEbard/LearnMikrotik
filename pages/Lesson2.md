@@ -12,7 +12,7 @@ title: Lesson 2
 
 {% embed url="https://youtu.be/Elex9l8WxUY" %}
 
-### Docs
+## Docs
 
 This lesson covers the basics of the Mikrotik web client, as well as WinBox tools. We provide brief descriptions and familiarizations for the tools you will be using to manage and configure your router.
 
