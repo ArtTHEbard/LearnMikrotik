@@ -23,4 +23,4 @@ Here you will find a wealth of instructional content, from setting up a guest ne
 | [Lesson6](pages/Lesson6.md)  | VPN                         | Hard              |
 | [Lesson7](pages/Lesson7.md)  | SSH Setup and Service Audit | Medium            |
 | [Lesson 8](pages/Lesson8.md) | Backups                     | Easy              |
-| [Lesson 9](pages/Lesson9.md) |Logging/Filtering            | Medium            |
+| [Lesson 9](pages/Lesson9.md) |Logging and Filtering        | Medium            |
