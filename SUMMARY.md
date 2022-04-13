@@ -11,3 +11,4 @@
   * [Lesson 6](pages/Lesson6.md)
   * [Lesson 7](pages/Lesson7.md)
   * [Lesson 8](pages/Lesson8.md)
+  * [Lesson 9](pages/Lesson9.md)
