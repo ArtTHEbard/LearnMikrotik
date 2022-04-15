@@ -14,7 +14,7 @@ Welcome to LearnMikrotik! This project is designed for small buisnesses trying t
 
 #### Connor Merchant
 
-![](.gitbook/assets/connor\_work.jpg) ![](<.gitbook/assets/connor\_desk (1) (1).jpg>)
+![](Pics/connor\_work.jpg) ![](<Pics/connor\_desk (1).jpg>)
 
 Connor is the voice behind the videos. He has a background in Sysadmin with three years of experience working with small businesses.
 

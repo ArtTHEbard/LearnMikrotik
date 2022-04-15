@@ -1,6 +1,6 @@
 ---
 description: LearnMikrotik
-cover: .gitbook/assets/Screenshot 2022-01-24 125609-min (1).png
+cover: .gitbook/assets/Screenshot 2022-01-24 125609-min (1) (1).png
 coverY: 128.8257768721345
 layout: landing
 ---
@@ -23,4 +23,4 @@ Here you will find a wealth of instructional content, from setting up a guest ne
 | [Lesson 6](pages/Lesson6.md) | VPN                         | Hard              |
 | [Lesson 7](pages/Lesson7.md) | SSH Setup and Service Audit | Medium            |
 | [Lesson 8](pages/Lesson8.md) | Backups                     | Easy              |
-| [Lesson 9](pages/Lesson9.md) |Logging and Filtering        | Medium            |
+| [Lesson 9](pages/Lesson9.md) | Logging and Filtering       | Medium            |
