@@ -12,7 +12,7 @@ title: Lesson 9
 
 ### Video
 
-[https://youtu.be/cWHV4IYaB1w](https://youtu.be/cWHV4IYaB1w)
+{% embed url="https://youtu.be/cWHV4IYaB1w" %}
 
 ### Docs
 
