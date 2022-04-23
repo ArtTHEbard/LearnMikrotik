@@ -12,3 +12,4 @@
   * [Lesson 7](pages/Lesson7.md)
   * [Lesson 8](pages/Lesson8.md)
   * [Lesson 9](pages/Lesson9.md)
+  * [Lesson 10](pages/Lesson10.md)
