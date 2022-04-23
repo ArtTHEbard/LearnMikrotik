@@ -6,9 +6,9 @@ title: Lesson 10
 
 ## Lesson 10
 
-### Lesson 10
+### LearnMikrotik
 
-## LearnMikrotik
+## Advanced Topics 2: VLANS and Web Proxies
 
 {% embed url="https://youtu.be/tJ7NNBWm9vY" %}
 

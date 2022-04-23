@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Screenshot 2022-01-24 125609-min (1).png
+cover: .gitbook/assets/Screenshot 2022-01-24 125609-min (1) (1).png
 coverY: 128.8257768721345
 layout: landing
 ---
