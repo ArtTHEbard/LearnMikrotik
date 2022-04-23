@@ -1,5 +1,4 @@
 ---
-description: LearnMikrotik
 cover: .gitbook/assets/Screenshot 2022-01-24 125609-min (1) (1).png
 coverY: 128.8257768721345
 layout: landing
@@ -15,12 +14,12 @@ Here you will find a wealth of instructional content, from setting up a guest ne
 
 | Lesson Page                  | Lesson Name                 | Lesson Difficulty |
 | ---------------------------- | --------------------------- | ----------------- |
-| [Lesson 1](pages/Lesson1.md) | Hardware Overview           | Easy              |
-| [Lesson 2](pages/Lesson2.md) | WebConfig                   | Easy              |
-| [Lesson 3](pages/Lesson3.md) | Secure Guest Wifi           | Medium            |
-| [Lesson 4](pages/Lesson4.md) | Captive Web Portal          | Medium            |
-| [Lesson 5](pages/Lesson5.md) | Mobile App                  | Easy              |
-| [Lesson 6](pages/Lesson6.md) | VPN                         | Hard              |
-| [Lesson 7](pages/Lesson7.md) | SSH Setup and Service Audit | Medium            |
+| [Lesson1](pages/Lesson1.md)  | Hardware Overview           | Easy              |
+| [Lesson2](pages/Lesson2.md)  | WebConfig                   | Easy              |
+| [Lesson3](broken-reference)  | Secure Guest Wifi           | Medium            |
+| [Lesson4](pages/Lesson4.md)  | Captive Web Portal          | Meduim            |
+| [Lesson5](pages/Lesson5.md)  | Mobile App                  | Easy              |
+| [Lesson6](pages/Lesson6.md)  | VPN                         | Hard              |
+| [Lesson7](pages/Lesson7.md)  | SSH Setup and Service Audit | Medium            |
 | [Lesson 8](pages/Lesson8.md) | Backups                     | Easy              |
-| [Lesson 9](pages/Lesson9.md) | Logging and Filtering       | Medium            |
+

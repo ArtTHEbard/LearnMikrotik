@@ -14,12 +14,12 @@ Welcome to LearnMikrotik! This project is designed for small buisnesses trying t
 
 #### Connor Merchant
 
-![](Pics/connor\_work.jpg) ![](<Pics/connor\_desk (1).jpg>)
+![](connor\_work.jpg) ![](<connor\_desk (1) (2).jpg>)
 
 Connor is the voice behind the videos. He has a background in Sysadmin with three years of experience working with small businesses.
 
 #### Sam Johnson
 
-![](.gitbook/assets/sam\_work.jpg) ![](<.gitbook/assets/sam\_desk (1).jpg>)
+![](.gitbook/assets/sam\_work.jpg) ![](Pics/sam\_desk.jpg)
 
 Sam is the editor and documentation author, with his voice featured in the VPN lesson! Sam is a SysAdmin with three years of experience working in network technologies.
